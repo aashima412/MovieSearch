@@ -6,7 +6,7 @@ import ListControls from './components/ListControls';
 import MovieCard from './components/MovieCard';
 import MovieModal from './components/MovieModal';
 
-const OMDB_API_KEY = 'da37b7cc';
+const OMDB_API_KEY = 'hiding_api_key_for_security_purpose';
 
 function App() {
   const [darkMode, setDarkMode] = useState(false);
